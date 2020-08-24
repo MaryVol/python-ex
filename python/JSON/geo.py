@@ -12,7 +12,7 @@ ctx.check_hostname = False
 ctx.verify_mode = ssl.CERT_NONE
 
 address = input('Enter location: ')
-api_key = 'AIzaSyCN2gKJpdqFGssvOVdKpofet_gatLQ1K64'
+api_key = 'AIzaSyCN2gKJpdqFGssvOVdKpofet_'
 parms = dict()
 parms['address'] = address
 parms['key'] = api_key
